@@ -1,0 +1,9 @@
+db.sqlite3
+venv/
+*.рус
+__pycache__/
+.idea/
+media/
+/static
+.DS_store
+*~
